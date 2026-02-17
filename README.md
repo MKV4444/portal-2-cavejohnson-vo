@@ -1,25 +1,47 @@
-1.ลง desktop github แล้ว login
+# วิธีใช้งาน (ใช้จริง)
 
-https://desktop.github.com/download/ 
+## 1. โปรแกรมที่ต้องลง
 
-2.ลง Audacity ใช้บันทึกไฟร์เสียง
+### 1.1 GitHub Desktop (ใช้จัดการไฟล์ + push)
+https://desktop.github.com/download/
 
+- เปิดโปรแกรม
+- Login ด้วย GitHub
+- Clone repo นี้ลงเครื่อง
+
+---
+
+### 1.2 Audacity (ใช้บันทึกเสียง)
 https://www.audacityteam.org/
 
-3.ลง notepad++ ใช้ดูไฟล้บท
+- ใช้บันทึกเสียง
+- Export เป็น `.wav`
+- **ตั้งชื่อไฟล์ให้ตรง checklist**
 
+---
+
+### 1.3 Notepad++ (ดูไฟล์บท)
 https://notepad-plus-plus.org/downloads/
 
+- ใช้เปิดไฟล์บท
+- คัดลอกชื่อไฟล์จากบทมาใช้ได้ตรง ๆ
+
+---
+
+## 2. โฟลเดอร์ที่ใช้
 
 
+- ไฟล์เสียง **ต้องอยู่ในโฟลเดอร์ `f/`**
+- ชื่อไฟล์ **ห้ามมีช่องว่าง**
+- ตัวอย่าง:  
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---
 
-ใช้จริง
+## 3. Sound Checklist
 
-
-<img width="178" height="122" alt="Screenshot 2026-02-14 205357" src="https://github.com/user-attachments/assets/118162bc-4f00-4b69-9bef-20ff65e02e1c" />
+> ถ้ามีไฟล์อยู่ใน `f/`  
+> GitHub จะติ๊ก `[x]` ให้เองอัตโนมัติ
 
 - [ ] cave_laugh04
 - [ ] eighties_intro01
@@ -96,3 +118,5 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - [ ] seventies_test_b_complete01
 - [ ] seventies_test_b_complete03
 - [ ] seventies_test_b_complete04
+
+
