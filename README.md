@@ -1,7 +1,9 @@
 1.ลง desktop github แล้ว login
 https://desktop.github.com/download/ 
-
-
+2.ลง Audacity ใช้บันทึกไฟร์เสียง
+https://www.audacityteam.org/
+3.ลง notepad++ ใช้ดูไฟล้บท
+https://notepad-plus-plus.org/downloads/
 
 
 
