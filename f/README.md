@@ -3,8 +3,8 @@
 - [ ] eighties_intro03
 - [ ] eighties_intro04
 - [ ] eighties_intro06
-- [ ] eighties_intro07
-- [ ] eighties_intro08
+- [x] eighties_intro07
+- [x] eighties_intro08
 - [ ] eighties_intro10
 - [ ] eighties_intro12
 - [ ] eighties_outro02
