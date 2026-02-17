@@ -1,13 +1,13 @@
 - [ ] cave_laugh04
-- [ ] eighties_intro01
-- [ ] eighties_intro03
-- [ ] eighties_intro04
-- [ ] eighties_intro06
+- [x] eighties_intro01
+- [x] eighties_intro03
+- [x] eighties_intro04
+- [x] eighties_intro06
 - [x] eighties_intro07
 - [x] eighties_intro08
-- [ ] eighties_intro10
-- [ ] eighties_intro12
-- [ ] eighties_outro02
+- [x] eighties_intro10
+- [x] eighties_intro12
+- [x] eighties_outro02
 - [ ] eighties_outro05
 - [ ] eighties_outro06
 - [ ] eighties_outro07
